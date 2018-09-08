@@ -1,8 +1,15 @@
 tags:
+<<<<<<< HEAD
+  - first-class
+  - functions
+  - functional programming
+  - code-along
+=======
   - forEach
   - sort 
   - reduce
   - lab
+>>>>>>> e4178a3e74e001caaf1dc26a66b9b905cb942545
 languages:
   - javascript
 resources:

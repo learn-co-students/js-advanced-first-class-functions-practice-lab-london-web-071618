@@ -1,29 +1,51 @@
 {
+<<<<<<< HEAD
+  "name": "js-advanced-functions-first-class-functions-lab",
+  "version": "0.1.0",
+  "description": "First-Class Functions Lab for Learn.co",
+=======
   "name": "js-advanced-first-class-functions-practice-lab",
   "version": "0.1.0",
   "description": "JavaScript First-Class Functions Practice Lab for Learn.co",
+>>>>>>> e4178a3e74e001caaf1dc26a66b9b905cb942545
   "main": "index.js",
+  "scripts": {
+    "postinstall": "gem install learn-co",
+    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+  },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
+    "url": "git+ssh://git@github.com/learn-co-curriculum/js-advanced-functions-first-class-functions-lab.git"
+=======
     "url": "git+ssh://git@github.com/learn-co-curriculum/js-advanced-first-class-functions-practice-lab.git"
   },
   "scripts": {
    "postinstall": "gem install learn-co",
    "test": "node_modules/browser-sync/bin/browser-sync.js start --config node_modules/learn-browser/bs-config.js"
+>>>>>>> e4178a3e74e001caaf1dc26a66b9b905cb942545
   },
   "keywords": [
     "learn",
     "flatiron school",
     "javascript",
-    "strings",
+    "functions",
+    "functional",
+    "first-class",
     "code-along"
   ],
   "author": "Flatiron School",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
+<<<<<<< HEAD
+    "url": "https://github.com/learn-co-curriculum/js-advanced-functions-first-class-functions-lab/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/js-advanced-functions-first-class-functions-lab#readme",
+=======
     "url": "https://github.com/learn-co-curriculum/js-advanced-first-class-functions-practice-lab/issues"
   },
   "homepage": "https://github.com/learn-co-curriculum/js-advanced-first-class-functions-practice-lab#readme",
+>>>>>>> e4178a3e74e001caaf1dc26a66b9b905cb942545
   "devDependencies": {
     "learn-browser": "^0.1.13"
   }
